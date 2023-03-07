@@ -48,7 +48,7 @@ All services are supported on Windows, macOS, Linux, and Docker unless otherwise
 | Traktarr                      | Add new media based on Trakt lists                                                                                                                    | [l3uddz/traktarr](https://github.com/l3uddz/traktarr)                 |                                             |
 | Unpackerr                     | Extracts archives from watch folders for import into other ARR apps                                                                                   | [davidnewhall/unpackerr](https://github.com/davidnewhall/unpackerr)   |
 | Whisparr _(WIP)_              | Automates & manages **adult movies**                                                                                                                  | [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr)                 | [/r/Whisparr](http://reddit.com/r/Whisparr)     |
- 
+ Wizarr | Advanced user invitation and management system for Jellyfin, Plex, Emby etc. |[Wizarrrr/wizarr](https://github.com/Wizarrrr/wizarr) | |
 
 
 
