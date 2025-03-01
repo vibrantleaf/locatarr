@@ -3,7 +3,7 @@
 # locatarr - Why? 
 Not all inclusive -- please feel free to update as you see fit!
 
-All services are supported on Windows, macOS, Linux, and Docker unless otherwise noted. 
+All services are supported on Linux, (native and via Podamn/Docker), Support for Windows and MacOSX is likey but not **not** guaranteed for Some or All services listed
 
 # *ARR Services
 
