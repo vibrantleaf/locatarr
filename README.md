@@ -75,3 +75,4 @@ All services are supported on Linux, (native and via Podamn/Docker), Support for
 | Gotify  | A self-hosted push notification service. | [gotify/server](https://github.com/gotify/server) ||
 | Whisper                 | Can be used to Generate Subtitles using AI        | [openai/whisper](https://github.com/openai/whisper) |[r/OpenAI](https://www.reddit.com/r/OpenAI/) |
 | FFmpeg | A complete, cross-platform solution to record, convert and stream audio and video. | [ffmpeg](https://git.ffmpeg.org/gitweb/ffmpeg.git) | [r/FFmpeg](https://www.reddit.com/r/ffmpeg/) |
+| rffmpeg | A remote SSH FFmpeg wrapper tool. | [joshuaboniface/rffmpeg](https://github.com/joshuaboniface/rffmpeg) |  
