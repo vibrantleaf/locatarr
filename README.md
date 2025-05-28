@@ -53,6 +53,7 @@ All services are supported on Linux, (native and via Podamn/Docker), Support for
  Kapowarr | Sonarr-like for commic books | [Casvt/Kapowarr](https://github.com/Casvt/Kapowarr) | [r/Kapowarr](https://www.reddit.com/r/Kapowarr/)
  Reiverr|  A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr |[aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) | |
  | Ruddarr |  A native iOS companion app for Radarr and Sonarr instances. | [ruddarr/app](https://github.com/ruddarr/app) | |
+ | Tunarr | Sonarr/Radarr style IPTV DVR | [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) | |
 
 
 
